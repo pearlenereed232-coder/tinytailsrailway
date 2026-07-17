@@ -1,0 +1,7 @@
+{
+    "name": "tinytailstudios/website",
+    "description": "Tiny Tails Studio custom sculpture website",
+    "require": {
+        "php": ">=8.2"
+    }
+}
